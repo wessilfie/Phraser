@@ -1,6 +1,6 @@
 import random
 
-phrases_list = ['BYE FELICA', 'HAHAHAHA NO', "OHHHKAY", "I CAN'T BELIVE YOU SAID THAT"]
+phrases_list = []
 
 def addList():
 	#phrases_list = []
